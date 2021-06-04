@@ -2,3 +2,10 @@ body {
     background-color: bisque;
     margin: 60px;
 }
+h1 {
+    font-size: 100 px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:4px  solid coral;
+    
+}
