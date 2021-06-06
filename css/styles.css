@@ -30,3 +30,9 @@ h5 {
     text-decoration: darksalmon;
     text-align: left;
 }
+
+.intro {
+    font-size: 60px;
+    text-align: left;
+    font-style: oblique;
+}
