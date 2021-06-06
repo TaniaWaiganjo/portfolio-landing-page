@@ -10,9 +10,7 @@ h1 {
 
 }
 
-.momimage {
-    float right: ;
-}
+
 
 h4 {
     font-size: 100px;
@@ -23,6 +21,12 @@ h4 {
     color: rgb(22, 15, 15);
     padding: 0px;
     margin: 1px ; 
-    border:solid darkred 1px 
+    border:solid darkred
+}
 
+h5 {
+    font-size: 80px;
+    font-style: oblique;
+    text-decoration: darksalmon;
+    text-align: left;
 }
