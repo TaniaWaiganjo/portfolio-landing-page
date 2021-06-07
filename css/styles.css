@@ -4,11 +4,12 @@ body {
 }
 
 h1 {
-    background-image: url(../images/main.jpg);
+    background-image: url(../images/main.jpg) ;
     font-size: 200 px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     border:3px  solid darkred;
+    color: white;
 }
     
 
@@ -37,6 +38,17 @@ h5 {
 
 .intro {
     font-size: 60px;
-    text-align: left;
+    text-align: center;
     font-style: oblique;
+}
+.contentformat {
+    font-size: 40px;
+    font-family: cursive;
+
+}
+
+h3 {
+    text-align: center;
+    font-size: 45 px;
+    font-style: italic;
 }
