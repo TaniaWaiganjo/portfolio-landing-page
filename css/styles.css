@@ -2,13 +2,17 @@ body {
     background-color: bisque;
     margin: 60px;
 }
+
 h1 {
+    background-image: url(../images/main.jpg);
     font-size: 200 px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     border:3px  solid darkred;
-
 }
+    
+
+
 
 
 
