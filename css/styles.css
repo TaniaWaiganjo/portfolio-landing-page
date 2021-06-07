@@ -52,3 +52,15 @@ h3 {
     font-size: 45 px;
     font-style: italic;
 }
+
+.details {
+    background-color: whitesmoke;
+    padding: 100px ;
+    margin: 100px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    border: 3px color darkred;
+
+
+}
